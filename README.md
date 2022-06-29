@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mugdha Kondhare</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nishikanth Reddy</h1>
 <h3 align="center">I'm a passionate Software Development Enthusiast from India.</h3>
 <h3 align="center">Who loves to convert ideas into reality</h3>
 
@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
 
-- 📫 How to reach me *mugdhakondhare15@gmail.com*
+- 📫 How to reach me *nishikanthreddy990@gmail.com*
 
 <!-- - ⚡ Fun fact *I .* -->
 
@@ -31,16 +31,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Mugdha27/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mugdha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha27&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/NISHIKANTH-REDDY/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nishikanth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NISHIKANTH-REDDY&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Mugdha27/github-readme-stats"><img alt="Mugdha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=/Mugdha27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Mugdha27/github-readme-stats"><img alt="Mugdha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdha27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/NISHIKANTH-REDDY/github-readme-stats"><img alt="Nishikanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=/NISHIKANTH-REDDY&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/NISHIKANTH-REDDY/github-readme-stats"><img alt="Nishikanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NISHIKANTH-REDDY&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Mugdha27/github-readme-activity-graph"><img alt="Mugdha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mugdha27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NISHIKANTH-REDDY/github-readme-activity-graph"><img alt="Nishikanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NISHIKANTH-REDDY&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -56,15 +56,14 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mugdha-kondhare-2b96141b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/MridulJadon"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/Nishikanth-reddy-2b96141b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/mriduljadon_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/rajputboy.13/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a> -->
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Mugdha27/github-profile-views-counter">
+<a href="https://github.com/NISHIKANTH-REDDY/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Mugdha27">
 </a>
-<a href="https://github.com/Mugdha27?tab=followers"><img src="https://img.shields.io/github/followers/MridulJadon?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/NISHIKANTH-REDDY?tab=followers"><img src="https://img.shields.io/github/followers/NISHIKANTH-REDDY?label=Followers&style=social" alt="GitHub Badge"></a>
